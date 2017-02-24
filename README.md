@@ -1,1 +1,1 @@
-# django-cms
+# My django-cms works
